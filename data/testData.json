@@ -1,0 +1,38 @@
+{
+  "sampleData": {
+    "currentAge": 40,
+    "retirementAge": 68,
+    "currentAnnualIncome": "100000",
+    "spouseAnnualIncome": "75000",
+    "currentRetirementSavings": "500000",
+    "currentRetirementContribution": "10",
+    "savingsIncreaseRate": "5",
+    "socialSecurityIncome": true,
+    "relationshipStatus": "Married",
+    "socialSecurityOverride": "4000",
+    "additionalIncome": "500",
+    "numberOfYearsRetirementNeedsToLast": 20,
+    "postRetirementIncomeIncreaseWithInflation": true,
+    "inflationRate":"5",
+    "percentOfFinalAnnualIncomeDesired": "75",
+    "PreRetirementInvestmentReturn": "8",
+    "postRetirementInvestmentReturn": "5"
+  },
+  "dataset2": {
+    "currentAge": 50,
+    "retirementAge": 78,
+    "currentAnnualIncome": "$100000",
+    "spouseAnnualIncome": "$75000",
+    "currentRetirementSavings": "$500000",
+    "currentRetirementContribution": "10%",
+    "socialSecurityIncome": true,
+    "relationshipStatus": "Married",
+    "socialSecurityOverride": "$4000",
+    "additionalIncome": "$500",
+    "numberOfYearsRetirementNeedsToLast": 20,
+    "postRetirementIncomeIncreaseWithInflation": true,
+    "percentOfFinalAnnualIncomeDesired": "75%",
+    "PreRetirementInvestmentReturn": "8%",
+    "postRetirementInvestmentReturn": "5%"
+  }
+}

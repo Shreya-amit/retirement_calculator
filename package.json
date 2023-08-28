@@ -1,0 +1,29 @@
+{
+  "name": "retirement_calculator",
+  "version": "1.0.0",
+  "description": "web test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "wdio run ./wdio.conf.ts --cucumberOpts.tagExpression='@web'"
+  },
+  "author": "Saraswati",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.5",
+    "@wdio/allure-reporter": "^8.15.6",
+    "@wdio/cli": "^8.15.6",
+    "@wdio/cucumber-framework": "^8.15.6",
+    "@wdio/local-runner": "^8.15.6",
+    "@wdio/spec-reporter": "^8.15.6",
+    "chromedriver": "^116.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "wdio-chromedriver-service": "^8.1.1",
+    "winston": "^3.10.0"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.23.1",
+    "chai": "^4.3.8"
+  }
+}
